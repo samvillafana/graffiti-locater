@@ -1,1 +1,1 @@
-# graffiti-locater
+# graffiti-locator
